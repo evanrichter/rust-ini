@@ -1,0 +1,5 @@
+project: rust-ini
+target: load_from_str
+
+cmds:
+  - cmd: /load_from_str
